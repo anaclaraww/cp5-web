@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/cp5-web/static/css/main.9a5c6096.css",
-    "main.js": "/cp5-web/static/js/main.ee880707.js",
+    "main.js": "/cp5-web/static/js/main.d1210de3.js",
     "static/js/453.ae923f6d.chunk.js": "/cp5-web/static/js/453.ae923f6d.chunk.js",
     "static/media/telas_hero.png": "/cp5-web/static/media/telas_hero.903141a9697c5e9d902e.png",
     "static/media/backgrund_hero.png": "/cp5-web/static/media/backgrund_hero.9b83e59faeee2f02fc58.png",
@@ -22,11 +22,11 @@
     "static/media/vinho.jpg": "/cp5-web/static/media/vinho.3c9a3bdf16623664a954.jpg",
     "index.html": "/cp5-web/index.html",
     "main.9a5c6096.css.map": "/cp5-web/static/css/main.9a5c6096.css.map",
-    "main.ee880707.js.map": "/cp5-web/static/js/main.ee880707.js.map",
+    "main.d1210de3.js.map": "/cp5-web/static/js/main.d1210de3.js.map",
     "453.ae923f6d.chunk.js.map": "/cp5-web/static/js/453.ae923f6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a5c6096.css",
-    "static/js/main.ee880707.js"
+    "static/js/main.d1210de3.js"
   ]
 }

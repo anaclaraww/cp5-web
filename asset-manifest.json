@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/cp5-web/static/css/main.9a5c6096.css",
+    "main.js": "/cp5-web/static/js/main.ee880707.js",
+    "static/js/453.ae923f6d.chunk.js": "/cp5-web/static/js/453.ae923f6d.chunk.js",
+    "static/media/telas_hero.png": "/cp5-web/static/media/telas_hero.903141a9697c5e9d902e.png",
+    "static/media/backgrund_hero.png": "/cp5-web/static/media/backgrund_hero.9b83e59faeee2f02fc58.png",
+    "static/media/feijoada.jpg": "/cp5-web/static/media/feijoada.faf3a712b99dfa7eb01f.jpg",
+    "static/media/strogonoff.jpg": "/cp5-web/static/media/strogonoff.74657ccb2281d69c7e10.jpg",
+    "static/media/baiao.jpg": "/cp5-web/static/media/baiao.639b01f78fa9f93c22fc.jpg",
+    "static/media/sorvete.jpg": "/cp5-web/static/media/sorvete.d1e62968f18c5ada8781.jpg",
+    "static/media/bolo.jpg": "/cp5-web/static/media/bolo.61b8c5fdde65bf654653.jpg",
+    "static/media/parmegiana.jpg": "/cp5-web/static/media/parmegiana.65833ae522b9a1a5c532.jpg",
+    "static/media/bacalhau.jpg": "/cp5-web/static/media/bacalhau.6f45f2c4c80a01f57bda.jpg",
+    "static/media/torta.jpg": "/cp5-web/static/media/torta.7760f2c2ca14accf4f22.jpg",
+    "static/media/acai.jpg": "/cp5-web/static/media/acai.14405639dd32b6d5b492.jpg",
+    "static/media/cerveja.jpg": "/cp5-web/static/media/cerveja.eaa06da8d9b3d4cd019e.jpg",
+    "static/media/macarrao.jpg": "/cp5-web/static/media/macarrao.f24b104526795e44a43a.jpg",
+    "static/media/refrigerantes.jpg": "/cp5-web/static/media/refrigerantes.99505c93d176860e99f1.jpg",
+    "static/media/gelatina.jpg": "/cp5-web/static/media/gelatina.3c70edb4675b6a357aa0.jpg",
+    "static/media/macarron.jpg": "/cp5-web/static/media/macarron.dc9f5235caddc61e034f.jpg",
+    "static/media/vinho.jpg": "/cp5-web/static/media/vinho.3c9a3bdf16623664a954.jpg",
+    "index.html": "/cp5-web/index.html",
+    "main.9a5c6096.css.map": "/cp5-web/static/css/main.9a5c6096.css.map",
+    "main.ee880707.js.map": "/cp5-web/static/js/main.ee880707.js.map",
+    "453.ae923f6d.chunk.js.map": "/cp5-web/static/js/453.ae923f6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.ee880707.js"
+  ]
+}

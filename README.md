@@ -9,6 +9,8 @@
 - Node.js
 - npm (gerenciador de pacotes do Node.js)
 
+
+## Estrutura do projeto
 ````
 CPS-WEB/                 # Diretório raiz do projeto
 │

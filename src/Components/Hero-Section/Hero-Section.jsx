@@ -11,6 +11,12 @@ const Container = styled.div`
   margin: 0;
   background-image: url("${bc_hero}");
 
+  @media (max-width: 600px) {
+    background-color: lightgreen;
+    flex-direction: column;
+    text-align: center;
+  }
+
  
 `;
 
@@ -18,7 +24,10 @@ const Content = styled.div`
   padding: 0 0 0 2%;
   width: 40%;
   
-  
+  @media (max-width: 600px) {
+  width: 100%;
+
+  }
 
 `;
 
@@ -28,6 +37,11 @@ const Title = styled.h1`
   color: #000;
   text-align: left;
   margin: 0;
+  @media (max-width: 600px) {
+   font-size: large;
+   text-align: center;
+   margin-top: 15%;
+ }
 `;
 
 const Description = styled.p`
@@ -36,6 +50,14 @@ const Description = styled.p`
   text-align: left;
   margin: 0;
 
+
+  @media (max-width: 600px) {
+    font-size:small;
+    text-align: center;
+    width: 90vw;
+  margin: 0 auto;
+
+  }
 `;
 
 const Button = styled.button`
@@ -47,6 +69,14 @@ const Button = styled.button`
   border-radius:100px;
   cursor: pointer;
   margin-top: 2rem;
+
+  @media (max-width: 600px) {
+    padding: 1% 2%;
+  font-size: small;
+  margin-top: 10px;
+
+
+  }
 `;
 
 const Circle = styled.div`
@@ -57,6 +87,13 @@ const Circle = styled.div`
   background-color: #8bc34a;
   border: 1px solid #9bad86;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  @media (max-width: 600px) {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    width: 80%;
+    margin-top: 5%;
+  }
  `;
 
  const ImgHero = styled.img`
